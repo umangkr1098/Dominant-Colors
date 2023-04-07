@@ -4,6 +4,6 @@ PIL
 re
 numpy
 matplotlib
-sklearn
+scikit-learn
 imutils
 imageio
